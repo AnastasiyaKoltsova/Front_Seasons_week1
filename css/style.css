@@ -68,11 +68,9 @@ a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 32px;
 }
 
 .menu__link {
-  
   text-transform: uppercase;
   font-weight: 400;
 }
