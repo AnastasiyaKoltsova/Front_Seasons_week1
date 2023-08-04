@@ -40,7 +40,7 @@ body {
   overflow-x: hidden;
   
   font-family: 'Inter', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.5;
   font-weight: 300;
   color: var(--light);
@@ -94,7 +94,7 @@ h1 {
 }
 
 .hero__title {
-  font-size: 32px;
+  font-size: 2rem;
   font-weight: 500;
 }
 
@@ -148,7 +148,7 @@ h1 {
 
 .title_little {
   color: var(--gold);
-  font-size: 24px;
+  font-size: 1.5rem;
   font-style: normal;
   font-weight: 600;
   line-height: 1.3;
@@ -178,7 +178,7 @@ h1 {
 
 .article__text {
   color: var(--header-dark);
-  font-size: 18px;
+  font-size: 1.1rem;
   line-height: 1.55;
   font-weight: 400;
 }
@@ -209,7 +209,7 @@ h1 {
 
 .article__features-container__item__title {
   color: var(--light);
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: 500;
   line-height: 1.3;
 }
@@ -243,7 +243,7 @@ h1 {
 }
 
 .footer__list-title {
-  font-size: 18px;
+  font-size: 1.1rem;
 }
 
 .footer__container__item {
@@ -276,7 +276,7 @@ h1 {
   }
 
   .hero__title {
-    font-size: 64px;
+    font-size: 4rem;
     max-width: 514px;
   }
 
@@ -315,7 +315,7 @@ h1 {
   .footer__title {
     margin-bottom: 64px;
     text-align: center;
-    font-size: 48px;
+    font-size: 3rem;
   }
 
   .footer__container {
